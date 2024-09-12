@@ -5,9 +5,9 @@ import Progress from '../assets/in-progress.svg';
 import Done from '../assets/Done.svg';
 import Cancelled from '../assets/Cancelled.svg';
 import Urgent from '../assets/Urgent-colour.svg'
-import Signal3 from '../assets/Signal3.svg'
-import Signal2 from '../assets/Signal2.svg'
-import Signal1  from '../assets/Signal1.svg'
+import Signal3 from '../assets/signal3.svg'
+import Signal2 from '../assets/signal2.svg'
+import Signal1  from '../assets/signal1.svg'
 
 
 export const getPriorityIcon = (priority) => {
