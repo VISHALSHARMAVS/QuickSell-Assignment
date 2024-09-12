@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import './loader.css';
+import './Loader.css';
 
 function Loader({ fullscreen = true }) {
     return (

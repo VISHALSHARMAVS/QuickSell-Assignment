@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import './header.css';
+import './Header.css';
 import DisplayDropdown from './Dropdown';
 
 function Header({ grouping, setGrouping, ordering, setOrdering }) {

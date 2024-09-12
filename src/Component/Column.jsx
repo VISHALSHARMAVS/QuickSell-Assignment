@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import  { useMemo } from 'react';
 import Card from './Card';
-import "./column.css";
+import "./Column.css";
 import Add from '../assets/add.svg';
 import Menu from '../assets/menu.svg';
 import { getPriorityIcon, getStatusIcon } from '../Utils/Icon';

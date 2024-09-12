@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import './card.css';
+import './Card.css';
 import UserIcon from './Icon';
 import Menu from '../assets/menu.svg';
 import { getStatusIcon } from '../Utils/Icon'
